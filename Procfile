@@ -1,0 +1,1 @@
+web: gunicorn --chdir Api ApiSuframa:app

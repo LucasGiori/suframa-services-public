@@ -1,0 +1,169 @@
+{
+    "historicos": [
+        {
+            "dataSituacaOHist": "30/10/2019 às 10:03:41",
+            "dscSituacaoHist": "NF-e Aguardando Análise de Produtos não Incentivados (Decreto 288 de 28/02/1967)",
+            "usuarioSituacaoHist": "SIMNAC",
+            "motivoSituacaoHist": "NF-e Recepcionada Aguardando Análise de Produtos não Incentivados (Decreto 288 de 28/02/1967)",
+            "codCanal": 0,
+            "dscCanal": "Indefinido"
+        },
+        {
+            "dataSituacaOHist": "30/10/2019 às 10:03:43",
+            "dscSituacaoHist": "NF-e Aguardando Solicitação do Registro do PIN pelo Remetente",
+            "usuarioSituacaoHist": "SIMNAC",
+            "motivoSituacaoHist": "Analise automática de Produtos não Incentivados (Decreto 288 de 28/02/1967).",
+            "codCanal": 0,
+            "dscCanal": "Indefinido"
+        },
+        {
+            "dataSituacaOHist": "30/10/2019 às 10:33:53",
+            "dscSituacaoHist": "NF-e Aguardando Confirmação do Registro do PIN pelo Destinatario",
+            "usuarioSituacaoHist": "ELGIN INDUSTRIAL DA AMAZONIA LTDA",
+            "motivoSituacaoHist": "Atualizado pela funcionalidade Solicitar Registro do PIN",
+            "codCanal": 0,
+            "dscCanal": "Indefinido"
+        },
+        {
+            "dataSituacaOHist": "31/10/2019 às 09:16:17",
+            "dscSituacaoHist": "NF-e Com PIN gerado",
+            "usuarioSituacaoHist": "GAZIN IND. E COM. DE MÓVEIS E ELETRODOMÉSTICOS LTDA",
+            "motivoSituacaoHist": "Atualizado pela funcionalidade Confirmar Registro  do PIN.",
+            "codCanal": 0,
+            "dscCanal": "Indefinido"
+        },
+        {
+            "dataSituacaOHist": "31/10/2019 às 09:18:14",
+            "dscSituacaoHist": "PIN Aguardando Confirmação de Recebimento da Mercadoria pelo Destinatario",
+            "usuarioSituacaoHist": "SIMNAC",
+            "motivoSituacaoHist": "Definição automática de canal de vistoria",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "31/10/2019 às 15:00:30",
+            "dscSituacaoHist": "PIN em Análise de Risco",
+            "usuarioSituacaoHist": "GAZIN IND. E COM. DE MÓVEIS E ELETRODOMÉSTICOS LTDA",
+            "motivoSituacaoHist": "Atualizado pela funcionalidade Confirmar Recebimento da Mercadoria.",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "31/10/2019 às 17:09:22",
+            "dscSituacaoHist": "PIN Aguardando Vistoria",
+            "usuarioSituacaoHist": "Suframa",
+            "motivoSituacaoHist": "Distribuição automática de PIN para vistoria.",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "18/11/2019 às 08:35:49",
+            "dscSituacaoHist": "PIN em Processo de Vistoria",
+            "usuarioSituacaoHist": "Suframa",
+            "motivoSituacaoHist": "Vistoria Pin",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "18/11/2019 às 08:41:29",
+            "dscSituacaoHist": "PIN Aguardando Recurso pelo Destinatario",
+            "usuarioSituacaoHist": "Suframa",
+            "motivoSituacaoHist": "Vistoria Pin",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "19/11/2019 às 15:26:03",
+            "dscSituacaoHist": "PIN Aguardando 2ª Vistoria",
+            "usuarioSituacaoHist": "GAZIN IND. E COM. DE MÓVEIS E ELETRODOMÉSTICOS LTDA",
+            "motivoSituacaoHist": "Manifestação da Empresa",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "20/11/2019 às 16:11:45",
+            "dscSituacaoHist": "PIN em Processo da 2º Vistoria",
+            "usuarioSituacaoHist": "Suframa",
+            "motivoSituacaoHist": "Vistoria Pin",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        },
+        {
+            "dataSituacaOHist": "20/11/2019 às 16:12:23",
+            "dscSituacaoHist": "PIN Vistoriado Aguardando Desembaraço Sefaz Destino",
+            "usuarioSituacaoHist": "Suframa",
+            "motivoSituacaoHist": "Vistoria Pin",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        }
+    ],
+    "historicosCanal": [
+        {
+            "dataSituacaOHist": "31/10/2019 às 09:18:14",
+            "dscSituacaoHist": null,
+            "usuarioSituacaoHist": "SIMNAC",
+            "motivoSituacaoHist": "Definição automática de canal de vistoria",
+            "codCanal": 2,
+            "dscCanal": "Vermelho"
+        }
+    ],
+    "ocorrencias": [
+        {
+            "nomeVistoriador": "CYRO FREITAS UCHOA",
+            "dataOcorrencia": "18/11/2019 às 08:39:10",
+            "dscOcorrencia": "Local impróprio para vistoria",
+            "dscGravidade": "Alta",
+            "dscInformacao": null,
+            "dscResposta": null,
+            "nomeArquivo": null,
+            "idVistoriaArquivo": null,
+            "numFase": "1ª"
+        }
+    ],
+    "dadosTransporte": [
+        {
+            "idDadosTransporte": 77177,
+            "tipoTransporte": 6,
+            "numeroHabilitacao": null,
+            "nfeId": 236874,
+            "cnpjTransportador": null,
+            "nomeTransportador": null,
+            "codigoRastreamento": null,
+            "numeroCPF": null,
+            "codigoIdentificacaoVeiculo": null,
+            "nomeResponsavel": null,
+            "numeroChaveAcessoDACTE": null,
+            "numeroPesoAproximado": null,
+            "valorNotaFiscal": null,
+            "tipoVeiculo": null,
+            "dataHoraRegistro": "2019-10-30T10:33:41.11",
+            "numeroUsuario": "14200166000166",
+            "tipoUsuario": 1,
+            "dataHoraRegistroStringFormatada": null,
+            "anexarCte": null,
+            "autonomoCpfCnpj": 0
+        },
+        {
+            "idDadosTransporte": 101929,
+            "tipoTransporte": 1,
+            "numeroHabilitacao": null,
+            "nfeId": 236874,
+            "cnpjTransportador": null,
+            "nomeTransportador": null,
+            "codigoRastreamento": null,
+            "numeroCPF": null,
+            "codigoIdentificacaoVeiculo": null,
+            "nomeResponsavel": null,
+            "numeroChaveAcessoDACTE": "41191026519585000144570030000135441000211717",
+            "numeroPesoAproximado": null,
+            "valorNotaFiscal": null,
+            "tipoVeiculo": null,
+            "dataHoraRegistro": "2019-10-31T14:55:35.79",
+            "numeroUsuario": "77941490003685",
+            "tipoUsuario": 2,
+            "dataHoraRegistroStringFormatada": null,
+            "anexarCte": null,
+            "autonomoCpfCnpj": 0
+        }
+    ]
+}
